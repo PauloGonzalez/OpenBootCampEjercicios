@@ -1,6 +1,7 @@
 public class Coche {
     int numeroPuertas;
     public Coche(int puertas) {
+
         numeroPuertas = puertas;
     }
 
