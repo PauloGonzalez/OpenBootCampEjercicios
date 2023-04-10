@@ -10,7 +10,10 @@ public class Main {
     -Dentro de la clase coche, una variable numérica que almacene el número de puertas que tiene.
     -Una función que incremente el número de puertas que tiene el coche.
     -Crear un objeto miCoche en el main y añadirle una puerta.
-    -Mostrar el número de puertas que tiene el objeto. */
+    -Mostrar el número de puertas que tiene el objeto.
+
+    Nota: Este es el link para compartir el proyecto en Github.
+    https://github.com/PauloGonzalez/OpenBootCampEjercicios.git  */
 
 
     public static void main(String[] args)
